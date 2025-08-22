@@ -28,4 +28,7 @@
   <div class="container signin">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
+  <label for="aadhar"><b>Aadhar Number</b></label>
+      <input type="text" placeholder="Enter Aadhar Number" name="aadhar" id="aadhar" required>
+          <br>
 </form>
